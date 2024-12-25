@@ -19,7 +19,7 @@ My journey in data science is driven by curiosity, creativity, and a desire to m
 ---
 
 ## Get in Touch  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dh-vaibhav-kashyap/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dh-vaibhav-kashyap/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:vaikashyapdh@gmail.com)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=vaibhavkashyapdh&color=brightgreen)
