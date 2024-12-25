@@ -2,6 +2,15 @@
 
 Hi, I'm Vaibhav, a **passionate data scientist** with a love for solving real-world problems through data. 🚀  
 
+<picture>
+  <!-- Dark mode image -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/vaibhavkashyapdh/vaibhavkashyapdh/raw/main/images/dark-mode-banner.png">
+  <!-- Light mode image -->
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/vaibhavkashyapdh/vaibhavkashyapdh/raw/main/images/light-mode-banner.png">
+  <!-- Default image -->
+  <img alt="Responsive Banner Image" src="https://github.com/vaibhavkashyapdh/vaibhavkashyapdh/raw/main/images/default-banner.png">
+</picture>
+
 ---
 
 ## About Me  
