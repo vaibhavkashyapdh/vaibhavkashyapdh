@@ -2,8 +2,6 @@
 
 Hi, I'm Vaibhav, a **passionate data scientist** with a love for solving real-world problems through data. 🚀  
 
-![Profile Picture](https://github.com/vaibhavkashyapdh/vaibhavkashyapdh/"C:\Users\vaika\OneDrive\Desktop\Fotolia_257957753_Subscription_Monthly_M.jpg")
-
 ---
 
 ## About Me  
