@@ -2,6 +2,8 @@
 
 Hi, I'm Vaibhav, a **passionate data scientist** with a love for solving real-world problems through data. 🚀  
 
+![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fflextrade.com%2Fresources%2Fdata-analytics-overtakes-big-data%2F&psig=AOvVaw1f_2qa_vqldjpAWrKTPFeZ&ust=1735185398508000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjG9b6DwooDFQAAAAAdAAAAABAJ)
+
 ---
 
 ## About Me  
