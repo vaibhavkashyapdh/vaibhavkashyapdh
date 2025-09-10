@@ -6,13 +6,13 @@
 
 # Welcome to My GitHub Profile! 🌟
 
-Hi, I'm Vaibhav, a **passionate data scientist** with a love for solving real-world problems through data. 🚀  
+Hi, I'm Vaibhav, a **passionate data scientist/analytics** with a love for solving real-world problems through data. 🚀  
 
 ---
 
 ## About Me  
-- 🎓 Data Science Master's Graduate from the University of Nottingham (2024).  
-- 💻 Proficient in Python, R, and Big Data Analytics.  
+- 🎓 Data Science Postgraduate from the University of Nottingham (2025).  
+- 💻 Proficient in Python, SQL, PowerBI, Excel, Google Sheets and Big Data Analytics.  
 - 🌐 Enthusiastic about leveraging machine learning and AI to create impactful solutions.  
 - 💡 Committed to continuous learning and innovation in the field of data science.  
 
